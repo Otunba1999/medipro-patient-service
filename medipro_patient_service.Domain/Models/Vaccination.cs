@@ -2,10 +2,10 @@ namespace medipro_patient_service.Domain.Models;
 
 public class Vaccination
 {
-    public string Vaccinename { get; set; } = String.Empty;
-    public DateOnly  DateAdministred { get; set; }
-    public string Manufacturer { get; set; } = String.Empty;
-    public string BatchNumber { get; set; } = string.Empty;
-    public MedicalHistory? MedicalHistory { get; set; }
-    public Guid MedicalHistoryId { get; set; }
+    public string VaccineName { get; init; } = string.Empty;
+    public DateOnly  DateAdministered { get; init; }
+    public string Manufacturer { get; init; } = string.Empty;
+    public string BatchNumber { get; init; } = string.Empty;
+    public MedicalHistory? MedicalHistory { get; init; }
+    public Guid MedicalHistoryId { get; init; }
 }
