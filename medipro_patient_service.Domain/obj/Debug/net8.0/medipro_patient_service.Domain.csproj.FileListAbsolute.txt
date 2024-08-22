@@ -1,0 +1,12 @@
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/bin/Debug/net8.0/medipro_patient_service.Domain.deps.json
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/bin/Debug/net8.0/medipro_patient_service.Domain.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/bin/Debug/net8.0/medipro_patient_service.Domain.pdb
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.AssemblyInfoInputs.cache
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.AssemblyInfo.cs
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.csproj.CoreCompileInputs.cache
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.sourcelink.json
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/refint/medipro_patient_service.Domain.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.pdb
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/obj/Debug/net8.0/ref/medipro_patient_service.Domain.dll

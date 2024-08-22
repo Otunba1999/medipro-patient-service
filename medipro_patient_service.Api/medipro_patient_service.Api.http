@@ -1,0 +1,6 @@
+@medipro_patient_service.Api_HostAddress = http://localhost:5111
+
+GET {{medipro_patient_service.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

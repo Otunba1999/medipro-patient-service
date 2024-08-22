@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ce99J1xOs79EkWTW29LBQiTFDmsaIvWPu3HxemflU9Y=",
+  "Source": "medipro_patient_service.Api",
+  "BasePath": "_content/medipro_patient_service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/medipro_patient_service.Api.props" />
+</Project>

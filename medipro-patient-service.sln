@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medipro_patient_service.Domain", "medipro_patient_service.Domain\medipro_patient_service.Domain.csproj", "{4B215F46-4B4E-48DE-AE8C-A177B1CB9D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medipro_patient_service.Infrastructure", "medipro_patient_service.Infrastructure\medipro_patient_service.Infrastructure.csproj", "{0037355C-A9F1-400C-B8BD-01DF2310C233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medipro_patient_service.Persistence", "medipro_patient_service.Persistence\medipro_patient_service.Persistence.csproj", "{1DC2C16A-260C-4FC4-B091-3F965B1F8A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medipro_patient_service.Application", "medipro_patient_service.Application\medipro_patient_service.Application.csproj", "{8782C10A-F15C-41BC-856A-0B1A5FD9DBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medipro_patient_service.Api", "medipro_patient_service.Api\medipro_patient_service.Api.csproj", "{BD18F0B2-FF99-4AE7-BB2A-4B99CAC3D92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medipro_Patient_Service.Common", "Medipro_Patient_Service.Common\Medipro_Patient_Service.Common.csproj", "{50B74CFF-234F-4085-B6F6-29CF9E06ED86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B215F46-4B4E-48DE-AE8C-A177B1CB9D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B215F46-4B4E-48DE-AE8C-A177B1CB9D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B215F46-4B4E-48DE-AE8C-A177B1CB9D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B215F46-4B4E-48DE-AE8C-A177B1CB9D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0037355C-A9F1-400C-B8BD-01DF2310C233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0037355C-A9F1-400C-B8BD-01DF2310C233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0037355C-A9F1-400C-B8BD-01DF2310C233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0037355C-A9F1-400C-B8BD-01DF2310C233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC2C16A-260C-4FC4-B091-3F965B1F8A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC2C16A-260C-4FC4-B091-3F965B1F8A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC2C16A-260C-4FC4-B091-3F965B1F8A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC2C16A-260C-4FC4-B091-3F965B1F8A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8782C10A-F15C-41BC-856A-0B1A5FD9DBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8782C10A-F15C-41BC-856A-0B1A5FD9DBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8782C10A-F15C-41BC-856A-0B1A5FD9DBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8782C10A-F15C-41BC-856A-0B1A5FD9DBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD18F0B2-FF99-4AE7-BB2A-4B99CAC3D92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD18F0B2-FF99-4AE7-BB2A-4B99CAC3D92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD18F0B2-FF99-4AE7-BB2A-4B99CAC3D92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD18F0B2-FF99-4AE7-BB2A-4B99CAC3D92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B74CFF-234F-4085-B6F6-29CF9E06ED86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B74CFF-234F-4085-B6F6-29CF9E06ED86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B74CFF-234F-4085-B6F6-29CF9E06ED86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B74CFF-234F-4085-B6F6-29CF9E06ED86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

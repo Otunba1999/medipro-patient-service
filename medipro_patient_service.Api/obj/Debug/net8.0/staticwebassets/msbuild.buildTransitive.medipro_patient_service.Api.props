@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/medipro_patient_service.Api.props" />
+</Project>

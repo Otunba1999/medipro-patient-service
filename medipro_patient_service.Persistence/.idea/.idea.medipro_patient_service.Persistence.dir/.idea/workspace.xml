@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5d2b18d-4553-4c35-8220-f71a582c969c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.medipro-patient-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.medipro-patient-service/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.medipro-patient-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Medipro_Patient_Service.Common/Utilities/PagedResult.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/Interfaces/Repositories/IGenericRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repositories/Configs/DatabaseConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repositories/Extension.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repositories/GenericRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro-patient-service.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro-patient-service.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/medipro_patient_service.Api.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/medipro_patient_service.Api.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/Debug/net8.0/medipro_patient_service.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/medipro_patient_service.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/medipro_patient_service.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/medipro_patient_service.Api.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/medipro_patient_service.Api.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/medipro_patient_service.Api.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/medipro_patient_service.Api.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/medipro_patient_service.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/medipro_patient_service.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/Debug/net8.0/medipro_patient_service.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/Debug/net8.0/medipro_patient_service.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/Debug/net8.0/medipro_patient_service.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/Debug/net8.0/medipro_patient_service.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/medipro_patient_service.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/medipro_patient_service.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Contact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Contact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Entity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Entity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/MedicalHistory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/MedicalHistory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Medication.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Medication.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/PastMedicalHistory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/PastMedicalHistory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Patient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/Patient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/SunstanceUse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/Models/SubstanceUse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/Debug/net8.0/medipro_patient_service.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_patient_service.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_patient_service.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_patient_service.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_patient_service.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../medipro_patient_service.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Context/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medipro_patient_service.Persistence.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/medipro_patient_service.Persistence.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/medipro_patient_service.Persistence.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/medipro_patient_service.Persistence.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/medipro_patient_service.Persistence.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/medipro_patient_service.Persistence.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/medipro_patient_service.Persistence.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/medipro_patient_service.Persistence.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/medipro_patient_service.Persistence.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/medipro_patient_service.Persistence.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/medipro_patient_service.Persistence.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/medipro_patient_service.Persistence.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/medipro_patient_service.Persistence.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/medipro_patient_service.Persistence.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2l19FnGp7CB5iNzN8kc9K8mVvsa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d2b18d-4553-4c35-8220-f71a582c969c" name="Changes" comment="" />
+      <created>1724336613338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724336613338</updated>
+      <workItem from="1724336614634" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

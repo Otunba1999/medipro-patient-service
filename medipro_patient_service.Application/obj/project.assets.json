@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Medipro_Patient_Service.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Medipro_Patient_Service.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Medipro_Patient_Service.Common.dll": {}
+        }
+      },
+      "medipro_patient_service.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/medipro_patient_service.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/medipro_patient_service.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medipro_Patient_Service.Common/1.0.0": {
+      "type": "project",
+      "path": "../Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj",
+      "msbuildProject": "../Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj"
+    },
+    "medipro_patient_service.Domain/1.0.0": {
+      "type": "project",
+      "path": "../medipro_patient_service.Domain/medipro_patient_service.Domain.csproj",
+      "msbuildProject": "../medipro_patient_service.Domain/medipro_patient_service.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Medipro_Patient_Service.Common >= 1.0.0",
+      "medipro_patient_service.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/oladapo/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Application/medipro_patient_service.Application.csproj",
+      "projectName": "medipro_patient_service.Application",
+      "projectPath": "/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Application/medipro_patient_service.Application.csproj",
+      "packagesPath": "/home/oladapo/.nuget/packages/",
+      "outputPath": "/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/oladapo/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/oladapo/DotNet/medipro-patient-service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj": {
+              "projectPath": "/home/oladapo/DotNet/medipro-patient-service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj"
+            },
+            "/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/medipro_patient_service.Domain.csproj": {
+              "projectPath": "/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Domain/medipro_patient_service.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
