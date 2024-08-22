@@ -2,10 +2,10 @@ namespace medipro_patient_service.Domain.Models;
 
 public class Illness : Entity
 {
-    public string Name { get; set; } = String.Empty;
-    public DateOnly OnsetDate { get; set; }
-    public DateOnly ResolutionDate { get; set; }
-    public string Outcome { get; set; } = String.Empty;
-    public PastMedicalHistory? PastMedicalHistory { get; set; }
-    public Guid PastMedicalHistoryId { get; set; }
+    public string Name { get; init; } = string.Empty;
+    public DateOnly OnsetDate { get; init; }
+    public DateOnly ResolutionDate { get; init; }
+    public string Outcome { get; init; } = string.Empty;
+    public PastMedicalHistory? PastMedicalHistory { get; init; }
+    public Guid PastMedicalHistoryId { get; init; }
 }

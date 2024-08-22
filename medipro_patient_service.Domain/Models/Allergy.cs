@@ -2,9 +2,9 @@ namespace medipro_patient_service.Domain.Models;
 
 public class Allergy : Entity
 {
-    public string Allergen { get; set; } = String.Empty;
-    public string Reaction { get; set; } = String.Empty;
-    public MedicalHistory? MedicalHistory { get; set; }
-    public Guid MedicalHistoryId { get; set; }
+    public string Allergen { get; init; } = string.Empty;
+    public string Reaction { get; init; } = string.Empty;
+    public MedicalHistory? MedicalHistory { get; init; }
+    public Guid MedicalHistoryId { get; init; }
     
 }
