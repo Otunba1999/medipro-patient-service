@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using medipro_patient_service.Domain.Models;
 
 namespace medipro_patient_service.Domain.Models;
@@ -10,6 +11,7 @@ public class Contact : Entity
     public string Country { get; init; } = string.Empty;
     public string Phone { get; init; } = string.Empty;
     public string Email { get; init; } = string.Empty;
+    [JsonIgnore]
     public Patient? Patient { get; init; }
     public Guid PatientId { get; init; }
 }

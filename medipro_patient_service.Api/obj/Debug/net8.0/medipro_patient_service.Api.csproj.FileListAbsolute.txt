@@ -46,3 +46,14 @@
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/medipro_patient_service.Persistence.pdb
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/Medipro_Patient_Service.Common.pdb
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/medipro_patient_service.Domain.pdb
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/DateOnlyTimeOnly.AspNet.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/DateOnlyTimeOnly.AspNet.Swashbuckle.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Newtonsoft.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/AutoMapper.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/RestSharp.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/medipro_patient_service.Infrastructure.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Api/bin/Debug/net8.0/medipro_patient_service.Infrastructure.pdb

@@ -14,10 +14,15 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
-      <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
+    
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="8.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
   </ItemGroup>
@@ -26,6 +31,7 @@
     <ProjectReference Include="..\medipro_patient_service.Application\medipro_patient_service.Application.csproj" />
     <ProjectReference Include="..\Medipro_Patient_Service.Common\Medipro_Patient_Service.Common.csproj" />
     <ProjectReference Include="..\medipro_patient_service.Domain\medipro_patient_service.Domain.csproj" />
+    <ProjectReference Include="..\medipro_patient_service.Infrastructure\medipro_patient_service.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 namespace medipro_patient_service.Domain.Models;
 
-public class Vaccination
+public class Vaccination : Entity
 {
     public string VaccineName { get; init; } = string.Empty;
     public DateOnly  DateAdministered { get; init; }

@@ -20,3 +20,5 @@
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Persistence/obj/Debug/net8.0/medipro_patient_service.Persistence.pdb
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Persistence/obj/Debug/net8.0/medipro_patient_service.Persistence.genruntimeconfig.cache
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Persistence/obj/Debug/net8.0/ref/medipro_patient_service.Persistence.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Persistence/bin/Debug/net8.0/medipro_patient_service.Infrastructure.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Persistence/bin/Debug/net8.0/medipro_patient_service.Infrastructure.pdb

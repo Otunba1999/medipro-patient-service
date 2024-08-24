@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "yglvIAPNqxY=",
+  "dgSpecHash": "A60HRLFl1UWWTQfIp9PM/5CfOxXy9MbWJMEWpesiuQKOFyEZp+UFgvU91X2PTLlHuKI861NNEZCnhSVHPKyYMQ==",
   "success": true,
   "projectFilePath": "/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Application/medipro_patient_service.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/oladapo/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/oladapo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/oladapo/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/oladapo/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/oladapo/.nuget/packages/restsharp/111.4.1/restsharp.111.4.1.nupkg.sha512",
+    "/home/oladapo/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

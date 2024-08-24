@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Medipro_Patient_Service.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ced51efe366437e2e21bef40897ce1727e01d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97046258fe1652dc33d48f610bdd40e76cfaae9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Medipro_Patient_Service.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Medipro_Patient_Service.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

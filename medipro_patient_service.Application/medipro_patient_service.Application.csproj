@@ -11,4 +11,9 @@
     <ProjectReference Include="..\medipro_patient_service.Domain\medipro_patient_service.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Automapper" Version="13.0.1" />
+    <PackageReference Include="RestSharp" Version="111.4.1" />
+  </ItemGroup>
+
 </Project>

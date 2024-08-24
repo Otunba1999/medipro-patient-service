@@ -6,9 +6,9 @@ public class PresentIllness : Entity
     public string Duration { get; init; } = string.Empty;
     public string Intensity { get; init; } = string.Empty;
     public string Description { get; init; } = string.Empty;
-    public string AlliviatingFactor { get; init; } = string.Empty;
+    public string AlleviatingFactor { get; init; } = string.Empty;
     public string ExacerbationFactors { get; init; } = string.Empty;
-    public string AssociatedSypmtoms { get; init; } = string.Empty;
+    public string AssociatedSymptoms { get; init; } = string.Empty;
     public string PreviousEpisode { get; init; } = string.Empty;
     public MedicalHistory? MedicalHistory { get; init; }
     public Guid MedicalHistoryId { get; init; }

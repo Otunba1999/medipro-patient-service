@@ -5,12 +5,12 @@ namespace medipro_patient_service.Domain.Enums;
 public enum Gender
 {
     [EnumMember(Value = "Male")]
-    Male,
+    Male = 0,
     [EnumMember(Value = "Female")]
-    Female,
+    Female = 1,
     [EnumMember(Value = "Other")]
-    Other,
+    Other = 2,
     [EnumMember(Value = "Prefer not to say")]
-    Prefer_Not_To_Say
+    PreferNotToSay = 4
     
 }

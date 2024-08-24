@@ -10,3 +10,15 @@
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/obj/Debug/net8.0/refint/medipro_patient_service.Infrastructure.dll
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_patient_service.Infrastructure.pdb
 /home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/obj/Debug/net8.0/ref/medipro_patient_service.Infrastructure.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/medipro_patient_service.Application.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/Medipro_Patient_Service.Common.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/medipro_patient_service.Domain.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/medipro_patient_service.Application.pdb
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/Medipro_Patient_Service.Common.pdb
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/medipro_patient_service.Domain.pdb
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.xml
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/bin/Debug/net8.0/Newtonsoft.Json.xml
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_patient_service.Infrastructure.csproj.AssemblyReference.cache
+/home/oladapo/DotNet/medipro-patient-service/medipro_patient_service.Infrastructure/obj/Debug/net8.0/medipro_.8845C95D.Up2Date

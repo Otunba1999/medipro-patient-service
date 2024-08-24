@@ -6,7 +6,7 @@ namespace medipro_patient_service.Persistence.Context;
 
 public class AppDbContext : DbContext
 {
-    protected AppDbContext()
+    public AppDbContext()
     {
     }
 
@@ -63,10 +63,10 @@ public class AppDbContext : DbContext
         modelBuilder.Entity<Patient>()
             .Property(p => p.Gender).HasConversion<string>();
         // Patient one to many Relationship with Health care provider
-        modelBuilder.Entity<Patient>()
-            .HasOne(p => p.HealthCareProvider)
-            .WithMany(h => h.Patients)
-            .HasForeignKey(p => p.HealthCareProviderId);
+        // modelBuilder.Entity<Patient>()
+        //     .HasOne(p => p.HealthCareProvider)
+        //     .WithMany(h => h.Patients)
+        //     .HasForeignKey(p => p.HealthCareProviderId);
         // Patient one to many Relationship with Medication
         modelBuilder.Entity<Patient>()
             .HasMany(p => p.CurrentMedications)
@@ -96,10 +96,10 @@ public class AppDbContext : DbContext
             .HasMany(m => m.CurentMedications)
             .WithOne(m => m.MedicalHistory)
             .HasForeignKey(m => m.MedicalHistoryId);
-        modelBuilder.Entity<MedicalHistory>()
-            .HasMany(m => m.PastMedications)
-            .WithOne(m => m.MedicalHistory)
-            .HasForeignKey(m => m.MedicalHistoryId);
+        // modelBuilder.Entity<MedicalHistory>()
+        //     .HasMany(m => m.PastMedications)
+        //     .WithOne(m => m.MedicalHistory)
+        //     .HasForeignKey(m => m.MedicalHistoryId);
         // Medical History one to many relationship with Allergy
         modelBuilder.Entity<MedicalHistory>()
             .HasMany(m => m.Allergies)
