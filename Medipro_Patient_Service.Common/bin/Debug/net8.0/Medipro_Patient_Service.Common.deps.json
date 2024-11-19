@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Medipro_Patient_Service.Common/1.0.0": {
+        "runtime": {
+          "Medipro_Patient_Service.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Medipro_Patient_Service.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

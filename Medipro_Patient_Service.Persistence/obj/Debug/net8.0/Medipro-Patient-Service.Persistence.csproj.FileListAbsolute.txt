@@ -1,0 +1,14 @@
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/bin/Debug/net8.0/Medipro-Patient-Service.Persistence.deps.json
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/bin/Debug/net8.0/Medipro-Patient-Service.Persistence.runtimeconfig.json
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/bin/Debug/net8.0/Medipro-Patient-Service.Persistence.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/bin/Debug/net8.0/Medipro-Patient-Service.Persistence.pdb
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.csproj.AssemblyReference.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.AssemblyInfoInputs.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.AssemblyInfo.cs
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.csproj.CoreCompileInputs.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/refint/Medipro-Patient-Service.Persistence.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.pdb
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/Medipro-Patient-Service.Persistence.genruntimeconfig.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro-Patient-Service.Persistence/obj/Debug/net8.0/ref/Medipro-Patient-Service.Persistence.dll

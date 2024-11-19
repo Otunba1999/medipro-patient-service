@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Medipro_Patient_Service.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DateOnlyTimeOnly.AspNet.Swashbuckle" Version="2.1.1" />
+    <PackageReference Include="Keycloak.AuthServices.Authentication" Version="2.5.3" />
+    <PackageReference Include="Keycloak.AuthServices.Authorization" Version="2.5.3" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Newtonsoft" Version="6.7.1" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Medipro_Patient_Service.Application\Medipro_Patient_Service.Application.csproj" />
+    <ProjectReference Include="..\Medipro_Patient_Service.Persistence\Medipro_Patient_Service.Persistence.csproj" />
+  </ItemGroup>
+
+  
+
+</Project>

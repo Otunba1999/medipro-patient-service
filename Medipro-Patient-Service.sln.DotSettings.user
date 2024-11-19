@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=22228FF2_002D8C93_002D413B_002DA1F9_002D17A29100857C/@EntryIndexedValue">DFC2E563-416E-4D07-85E6-5344398EEC0A</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=xUnit/@EntryIndexedValue">33ff99d8-b1ad-4ed5-a4fd-376b97c2c841</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5073148c_002D7eb8_002D4e7c_002D86df_002D762e4390921c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPatient_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c36d8a1c_002D46d3_002D4b08_002Dbc2d_002De6e521814114/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddAsync" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.MedHistoryGenericServiceTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PastMedHistoryGenericServiceTest.AddAsyncTest_Success&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PastMedHistoryGenericServiceTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.ContactServiceTest.AddAsyncTest_Success&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.ContactServiceTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest.AddAsync&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest.AddAsyncTest_Success&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest.AddAsyncTest_Fail&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest.AddAsyncTest_Fail_If_Patient_Exist&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest.GetAllAsync_Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DFC2E563-416E-4D07-85E6-5344398EEC0A::net8.0::Medipro_Patient_Service.Test.Services.PatientServiceTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

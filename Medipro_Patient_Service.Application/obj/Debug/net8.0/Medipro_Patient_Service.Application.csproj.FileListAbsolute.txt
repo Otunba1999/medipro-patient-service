@@ -1,0 +1,17 @@
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Application.deps.json
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Application.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Application.pdb
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Common.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Domain.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Common.pdb
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/bin/Debug/net8.0/Medipro_Patient_Service.Domain.pdb
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.csproj.AssemblyReference.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.AssemblyInfoInputs.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.AssemblyInfo.cs
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.csproj.CoreCompileInputs.cache
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_.988ABA31.Up2Date
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/refint/Medipro_Patient_Service.Application.dll
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/Medipro_Patient_Service.Application.pdb
+/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/Debug/net8.0/ref/Medipro_Patient_Service.Application.dll

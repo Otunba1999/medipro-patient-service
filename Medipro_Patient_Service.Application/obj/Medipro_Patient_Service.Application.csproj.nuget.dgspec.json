@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/Medipro_Patient_Service.Application.csproj": {}
+  },
+  "projects": {
+    "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/Medipro_Patient_Service.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/Medipro_Patient_Service.Application.csproj",
+        "projectName": "Medipro_Patient_Service.Application",
+        "projectPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/Medipro_Patient_Service.Application.csproj",
+        "packagesPath": "/home/oladapo/.nuget/packages/",
+        "outputPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oladapo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj": {
+                "projectPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj"
+              },
+              "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Domain/Medipro_Patient_Service.Domain.csproj": {
+                "projectPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Domain/Medipro_Patient_Service.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Automapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[111.4.1, )"
+            },
+            "StackExchange.redis": {
+              "target": "Package",
+              "version": "[2.8.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj",
+        "projectName": "Medipro_Patient_Service.Common",
+        "projectPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Common/Medipro_Patient_Service.Common.csproj",
+        "packagesPath": "/home/oladapo/.nuget/packages/",
+        "outputPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oladapo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Domain/Medipro_Patient_Service.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Domain/Medipro_Patient_Service.Domain.csproj",
+        "projectName": "Medipro_Patient_Service.Domain",
+        "projectPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Domain/Medipro_Patient_Service.Domain.csproj",
+        "packagesPath": "/home/oladapo/.nuget/packages/",
+        "outputPath": "/home/oladapo/RiderProjects/Medipro-Patient-Service/Medipro_Patient_Service.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/oladapo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
